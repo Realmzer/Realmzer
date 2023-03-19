@@ -10,3 +10,8 @@ I'm currently learning C# because im becoming intrested in Unity and I'm going t
 - Program some personal stuff
 - Play video games with friends like Skate 3.
 - Take walks out side
+
+Realmzer
+Realmzers's GitHub stats
+
+Top Langs
