@@ -14,4 +14,4 @@ I'm currently learning C# because im becoming intrested in Unity and I'm going t
 Realmzer
 Realmzers's GitHub stats
 
-Top Langs
+[![Realmzers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Realmzer)](https://github.com/anuraghazra/github-readme-stats)
