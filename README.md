@@ -17,3 +17,5 @@ Realmzers's GitHub stats
 ![Realmzers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Realmzer&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Realmzer&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/ankidroid/Anki-Android?style=social)
