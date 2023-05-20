@@ -14,4 +14,4 @@ I'm currently learning C# because im becoming intrested in Unity and I'm going t
 
 Realmzers's GitHub stats
 
-[![Realmzers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Realmzer)](https://github.com/anuraghazra/github-readme-stats)
+![Realmzers's GitHub stats](https://github-readme-stats.vercel.app/api?username=Realmzer&show_icons=true&theme=transparent)
