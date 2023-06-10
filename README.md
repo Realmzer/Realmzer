@@ -2,7 +2,10 @@
 
 
 
-👋 Hello I'm Realmzer or my actual name Andrew.<br><br> About Me<br>I'm just a new coder trying to learn python and haxe and a bit of C# and C++ I also reshade video game sprites with photoshop. My main programming language is Haxe I think haxe is a good starting language if you are getting into coding also python because you can do almost anything in coding with python but theres a lot less features in Haxe but you can still make some pretty cool projects other than that im good. Also I'm not coding for you.<br><br> C++ Learner<br>Im learning C++ because ive heard a lot of games use it that are usually 3d and want to try making a game one day.<br><br> What I do in my free time<br>- Program some personal stuff<br>- Play video games with friends like Skate 3.<br>- Take walks out side<br>
+👋 Hello I'm Realmzer or my actual name Andrew.<br><br>
+
+# About Me:
+<br>I'm just a new coder trying to learn python and haxe and a bit of C# and C++ I also reshade video game sprites with photoshop. My main programming language is Haxe I think haxe is a good starting language if you are getting into coding also python because you can do almost anything in coding with python but theres a lot less features in Haxe but you can still make some pretty cool projects other than that im good. Also I'm not coding for you.<br><br> C++ Learner<br>Im learning C++ because ive heard a lot of games use it that are usually 3d and want to try making a game one day.<br><br> What I do in my free time<br>- Program some personal stuff<br>- Play video games with friends like Skate 3.<br>- Take walks out side<br>
 
 
 # Learning:
