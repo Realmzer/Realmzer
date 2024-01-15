@@ -1,8 +1,5 @@
-
-# 👋 Hello I'm Realmzer
-
 # About Me:
-<br>I'm just a new coder trying to learn python and haxe. I also reshade video game sprites with photoshop. My main programming language is Haxe. Also I'm not coding for you.<br><br>
+<br>Hey I like coding stuff and i mainly code in Haxe.<br><br>
 
 
 # Learning:
