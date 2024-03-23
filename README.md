@@ -2,7 +2,7 @@
 <br>Hey I like coding stuff and i mainly code in Haxe.<br><br>
 Currently also learning Linux too. May port some of my projects to Linux.
 
-OS Used: Windows, Linux
+OS Used: Windows, Linux (Debian Mainly)
 
 
 # Learning:
