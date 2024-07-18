@@ -8,7 +8,7 @@ OS Used: Windows and Arch Linux
 
 
 # Tools and Things I know:
-[![My Skills]([https://skillicons.dev/icons?i=](https://skillicons.dev/icons?i=haxe,haxeflixel,lua,js,html,github,vscode,&perline=10&theme=dark))](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=haxe,haxeflixel,lua,github,vscode,eclipse,windows,arch,ps&perline=10&theme=dark"/>
 
  
 
