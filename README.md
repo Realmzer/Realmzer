@@ -7,8 +7,8 @@ OS Used: Windows and Arch Linux
 
 
 
-# Knows:
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+# Tools and Things I know:
+[![My Skills]([https://skillicons.dev/icons?i=](https://skillicons.dev/icons?i=haxe,haxeflixel,lua,js,html,github,vscode,&perline=10&theme=dark))](https://skillicons.dev)
 
  
 
