@@ -3,12 +3,12 @@
 Currently also learning Linux too. May port some of my projects to Linux.
 
 # OS Used: 
-<img src="https://skillicons.dev/icons?i=windows,arch&perline=10&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=windows,arch&perline=10"/>
 
 
 
 # Tools and Things I know:
-<img src="https://skillicons.dev/icons?i=haxe,haxeflixel,lua&perline=10&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=haxe,haxeflixel,lua&perline=10"/>
 
  
 
