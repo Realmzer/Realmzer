@@ -1,6 +1,6 @@
 # Realmzer:
 <br>Coding stuff for Haxe<br><br>
-[![Learning](https://skillicons.dev/icons?i=swift,cs,html&perline=3)](https://skillicons.dev)
+Learning: [![Learning](https://skillicons.dev/icons?i=swift,cs,html&perline=3)]
 
 
 
